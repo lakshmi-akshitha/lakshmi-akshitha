@@ -36,7 +36,7 @@ I am passionate about developing web applications that solve real-world problems
 
 ## 🌐 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/lakshmi-akshitha) 
+- [LinkedIn](https://www.linkedin.com/in/lakshmi-akshitha) 
 - Feel free to **open an issue** or **create a PR** if you'd like to collaborate on any of my repositories!
 
 ---
