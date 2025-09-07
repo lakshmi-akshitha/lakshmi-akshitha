@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshitha!
 
-## Full Stack Developer | Web Enthusiast
+## Full Stack Developer | Web Enthusiast | MERN Stack
 
 I am passionate about developing web applications that solve real-world problems. With a solid foundation in both front-end and back-end technologies, I focus on building clean, efficient, and scalable solutions. I am always eager to learn and adapt to the latest advancements in the industry to deliver high-quality results and contribute meaningfully to every project I undertake.
 
