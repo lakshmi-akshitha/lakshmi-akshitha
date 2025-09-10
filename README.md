@@ -34,7 +34,7 @@ I am passionate about developing web applications that solve real-world problems
 - Expertise in building responsive, user-friendly interfaces using **TailwindCSS**.
 - Proficient in managing relational databases with **PostgreSQL** and designing optimized database schemas.
 
-## Currently Building -> ScriptSaga 
+## Currently Building -> ScriptSaga , BookStore (FE + BE)
 
 ## 🌐 Let's Connect
 
